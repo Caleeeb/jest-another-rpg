@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "an rpg ran through NODE, tested with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caleeeb/jest-another-rpg.git"
+  },
+  "author": "Caleeeb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caleeeb/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/Caleeeb/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^28.0.0"
+  }
+}
